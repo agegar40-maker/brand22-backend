@@ -1,0 +1,5 @@
+Enterfastapi
+uvicorn
+websockets
+pandas
+pandas-ta
