@@ -1,5 +1,6 @@
-Enterfastapi
+
+fastapi
 uvicorn
 websockets
 pandas
-pandas-ta
+pandas_ta
